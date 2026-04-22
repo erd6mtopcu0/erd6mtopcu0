@@ -8,7 +8,6 @@
 
 - 🛡️ **Şu an şuna odaklandım:** Web Uygulama Güvenliği, Penetrasyon Testleri ve SQL Injection metotları.
 - 🚀 **Aktif olarak:** Bug Bounty metodolojilerini öğreniyor ve CTF lablarında kendimi geliştiriyorum.
-- 💻 **Blog:** Siber güvenlik üzerine yazılarımı yakında [ietsec.com](https://ietsec.com) adresinde paylaşacağım.
 - 📫 Bana buradan ulaşabilirsin: **erd6mtopcu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
