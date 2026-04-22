@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Erdem Topcu (@erdemisch)</h1>
+<h1 align="center">Hi 👋, I'm Erdem Topcu</h1>
 <h3 align="center">Cyber Security Researcher & Computer Engineering Student</h3>
 
 <p align="center">
