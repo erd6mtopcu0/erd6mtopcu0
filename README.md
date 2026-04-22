@@ -18,6 +18,13 @@
 <a href="https://www.youtube.com/@erdemisch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="erdemisch" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">TryHackMe Stats:</h3>
+<p align="left">
+  <a href="https://tryhackme.com/p/ietsec" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ietsec.png" alt="TryHackMe Stats" />
+  </a>
+</p>
+
 <h3 align="left">Cybersecurity & Tech Stack:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=BurpSuite&logoColor=white" alt="BurpSuite" />
@@ -34,7 +41,3 @@
 </p>
 
 <br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erd6mtopcu&show_icons=true&theme=radical" alt="Erdem's Stats" />
-</p>
