@@ -20,11 +20,6 @@
 </p>
 
 <h3 align="left">TryHackMe Stats:</h3>
-<p align="left">
-  <a href="https://tryhackme.com/p/ietsec" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/ietsec.png" alt="TryHackMe Stats" />
-  </a>
-</p>
 
 <h3 align="left">Cybersecurity & Tech Stack:</h3>
 <p align="left"> 
